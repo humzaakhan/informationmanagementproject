@@ -1,0 +1,37 @@
+Crime Category	2018	2019	2020	2021
+Total Complaints	16122	54832	118011	115800
+Financial Frauds	2358	11905	27720	32604
+Fake Profile	5005	7140	7774	3926
+Hacking	1171	5837	11833	9672
+Harassment	1112	5120	9579	7632
+Defamation	713	3641	7871	10283
+Un-authorized Access	1339	3957	6137	3397
+Blackmailing	450	2381	5099	5130
+Anti - Juidiciary	0	0	12283	1366
+Irrelevant Complaint	869	2857	5336	15939
+Threats	537	2027	3894	3716
+Invalid Complaint	699	1686	4597	9927
+Online Shopping	264	1284	2546	1729
+Stalking	393	981	1679	1861
+Blasphemous Contents	133	1126	1786	483
+Online Job Frauds	187	778	1108	558
+Identity Theft	114	780	1309	1334
+Anti- Religion	68	641	1182	253
+Anti - Army	161	495	869	65
+Spoofing	109	242	523	62
+Lottery Frauds	99	289	487	872
+Online Banking Frauds	65	341	366	619
+Spamming	40	226	425	382
+Anti - Government	47	256	329	110
+Pornography	27	161	304	200
+Illegal SIMs	15	144	170	531
+Phishing	4	105	137	39
+Digital Currency	5	67	38	65
+Child Pornography	1	19	101	113
+Ransomware	1	11	48	64
+BISP*	0	0	59	106
+Miscellaneous	136	335	1971	2372
+Ehsaas Program	-	-	0	120
+Other	-	-	451	-
+N.A	-	-	-	143
+Sectarianism	-	-	-	127
